@@ -1,0 +1,21 @@
+admin user - rajeshkchoudhary
+pwd - user1234
+
+other users
+
+    client1@gmail.com	client1user
+	client2@gmail.com	client2user
+	client3@gmail.com	client3user@gmail.com
+	clown1@gmail.com	clown1user@gmail.com
+	clown2@gmail.com	clown2user@gmail.com
+	clown3@gmail.com	clown3user@gmail.com
+	clown4@gmail.com	clown4user@gmail.com
+	clown5@gmail.com	clown5user@gmail.com
+	clown6@gmail.com	clown6user@gmail.com
+	clown7@gmail.com	clown7user@gmail.com
+	clown8@gmail.com	clown8user@gmail.com
+	Rajesh@gmail.com	rajeshkchoudhary
+	tl1@gmail.com	tl1user@gmail.com
+	tl2@gmail.com	tl2user@gmail.com
+
+all users pwd = user1234

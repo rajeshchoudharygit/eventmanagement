@@ -57,8 +57,8 @@ class Event(models.Model):
     name = models.CharField(max_length=100)
     event_date = models.DateTimeField()
     issues = models.CharField(max_length=200, blank=True)
-    troupe = models.ForeignKey(Troupe, on_delete=models.CASCADE)
-    client = models.ForeignKey(EventUser, on_delete=models.CASCADE)
+    troupe = models.ForeignKey(Troupe, on_delete=models.CASCADE, related_name='troupe1')
+    client = models.ForeignKey(EventUser, on_delete=models.CASCADE, related_name='client1')
 
     def __str__(self):
         return self.name
